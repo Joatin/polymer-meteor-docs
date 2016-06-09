@@ -1,0 +1,27 @@
+{
+  "name": "polymer-meteor-docs",
+  "description": "Documentation for polymer-meteor",
+  "main": "",
+  "authors": [
+    "Joatin Granlund <granlundjoatin@icloud.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Polymer",
+    "Meteor"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#^1.0.10",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.7"
+  }
+}
