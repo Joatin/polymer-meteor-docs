@@ -1,4 +1,2 @@
 
-Polymer({
-    is: 'docs-app'
-});
+export "Hello World!";
